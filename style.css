@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+}
+.item {
+    width: 80px;
+    height: 150px;
+    background-color: yellowgreen;
+    border: 5px solid;
+    margin: 10px;
+}
+.item1 {
+    flex-grow: 1;
+}
+.item2 {
+    flex-grow: 3;
+}
+.item3 {
+    flex-grow: 2;
+}
+.a {
+    flex-grow: 1;
+}
+.b {
+    flex-grow: 1;
+}
+.b1 {
+    flex-grow: 2;
+}
